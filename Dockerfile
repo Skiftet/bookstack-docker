@@ -1,4 +1,4 @@
-FROM skiftet/laravel-base:latest
+FROM skiftet/laravel-base-v2:latest
 
 VOLUME /srv/app/public/uploads
 
